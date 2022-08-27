@@ -1,0 +1,7 @@
+apt upgrade
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY>
+apt upgrade
+apt upgrade -y
+apt install git -y
+apt install python3-pip -y
+apt install nano
